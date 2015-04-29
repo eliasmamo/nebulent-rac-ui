@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/gulpfile.js" />
+        <item url="file://$PROJECT_DIR$/app.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-notify/node_modules/node-notifier/node_modules/shellwords/spec/shellwords_spec.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-notify/node_modules/node-notifier/node_modules/shellwords/src/shellwords.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/gulpfile.js" />
+      <root url="file://$PROJECT_DIR$/app.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-notify/node_modules/node-notifier/node_modules/shellwords/spec/shellwords_spec.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-notify/node_modules/node-notifier/node_modules/shellwords/src/shellwords.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
